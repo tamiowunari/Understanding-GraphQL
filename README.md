@@ -1,2 +1,2 @@
 # graphql-project
-A simple graphql project for my talk on introduction to graphql
+A simple graphql project for my presentation on introduction to graphql
